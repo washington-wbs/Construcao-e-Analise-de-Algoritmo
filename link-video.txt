@@ -1,0 +1,5 @@
+* Olá professor segue abaixo o link do video postado no github
+
+>> https://github.com/washington-wbs/Construcao-e-Analise-de-Algoritmo <<
+
+Obs.: será necessario realizar o download do video para reproduzir em sua máquina
